@@ -1,4 +1,4 @@
-# Medidor-de-consumo-electrico
+# Medidor-de-consumo-electrico 
 medidor de consumo eléctrico con raspberry
 
 este medidor de consumo electrico AC. esta basado en la idea de utilizar una raspberry como periferico de interaccion. 
@@ -8,6 +8,7 @@ por medio de sensores especializados, y guardar los datos obtenidos en archivos 
 Autor: José Gustavo López jaimes. 
 
 ------------------
+# Electric meter
 power consumption meter with raspberry
 
 This AC power consumption meter. It is based on the idea of using a raspberry as an interaction peripheral.
